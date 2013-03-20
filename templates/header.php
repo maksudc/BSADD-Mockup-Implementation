@@ -7,7 +7,7 @@
         <title>Mockup UI Development</title>
         <link rel="shortcut icon" href="http://www.buet.ac.bd/wp-content/themes/default/images/favicon.ico" type="image/x-icon" />
         <link rel="icon" href="http://www.buet.ac.bd/wp-content/themes/default/images/favicon.ico" type="image/x-icon" />
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="assets/css/bootstrap-united.css"/>
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="assets/css/bootstrap-responsive.min.css"/>
